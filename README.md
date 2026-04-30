@@ -1,4 +1,4 @@
-# deeplearningproject
+# Deeplearning Project
 # HumanActivityRecognition
 
 <br>
